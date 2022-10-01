@@ -11,6 +11,6 @@ Technical Assessment for Alina Yu
 # Programming Language fundation Knowledge
 •	python  operate dict key and value   
 •	python  for loop list  
-•	python  validation message   
+•	python  validation error message   
 
 
